@@ -5,8 +5,14 @@
 h2{
     color: green;
 }
-
-
+.about-caption2{
+    border-style: inset;
+    padding: 20px;
+}
+#big-container{
+    background-color: honeydew;
+    
+}
 .slick-slider
 {
     position: relative;
