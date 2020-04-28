@@ -5,6 +5,10 @@
 h2{
     color: green;
 }
+
+#home-container{
+    background-color: green;
+}
 .slick-slider
 {
     position: relative;
