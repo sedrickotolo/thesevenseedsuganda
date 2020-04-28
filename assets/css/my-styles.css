@@ -1,3 +1,6 @@
+#tssu-title{
+      font-size: 50px;
+}
 h2{
       color: yellow;
 }
@@ -7,4 +10,44 @@ ul{
 }
 #navigation{
       color: green;
+}
+.about-caption2{
+      color: red;
+}
+#concious-youth{
+      color: rgb(3, 37, 70);
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+
+}
+#about-headings{
+      color: #008000;
+      
+}
+.work{
+      color: #008000;
+  }
+#slogan-content{
+      font-size: 17px;
+      font-family: 'Times New Roman', Times, serif;
+}
+#slogan{
+      color: green;
+      font-size: 30px;
+}
+#hover-projects{
+      
+}
+
+.picture-div-on-services{
+      width: auto;
+      height: 400px;
+      background-color: wheat;
+}
+
+#preamble-border{
+      border-style: groove;
+      border-color: green;
+      border-width: thin;
+     padding: 30px;
 }
