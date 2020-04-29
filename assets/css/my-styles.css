@@ -8,8 +8,10 @@ ul{
       font-size: 20px;
       color: rgb(119, 211, 14);
 }
+
 #navigation{
       color: green;
+      
 }
 .about-caption2{
       color: red;
@@ -51,4 +53,16 @@ ul{
       border-color: green;
       border-width: thin;
      padding: 30px;
+}
+.wrapper{
+      
+}
+.img-area{
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      align-items: center;
+}
+.single-img{
+      padding: 2 20px 20px;
 }
