@@ -41,6 +41,16 @@ ul{
 #hover-projects{
       
 }
+.history{
+      border-style: none
+      ;
+      color: green;
+      padding: 30px;
+}
+.history h3{
+      text-align: center;
+      padding-top: 30px;
+}
 
 .picture-div-on-services{
       width: auto;
