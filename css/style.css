@@ -787,8 +787,8 @@ form#commentform textarea {
 
 .about-text .btn {
 	margin-top: 20px;
-	//font-size: 15px;
-	//text-align: justify;
+	font-size: 15px;
+	text-align: justify;
 }
 
 .about-image img {
@@ -801,7 +801,7 @@ form#commentform textarea {
 
 .about-text li {
 	margin-bottom: 10px;
-	//
+	
 	font-weight: bold;
 	list-style: none;
 }
@@ -1473,8 +1473,12 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
-
+#core-values-design{
+	color: greenyellow;
+}
+.panel-heading li{
+	color: greenyellow;
+}
 .clear-marginbot{
 	margin-bottom:0;
 }
