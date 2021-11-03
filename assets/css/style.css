@@ -55,6 +55,7 @@
   background: #16161a;
 }
 
+
 /* line 69, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_color.scss */
 .theme-bg {
   background: #09cc7f;
@@ -708,7 +709,7 @@ hr {
 /* button style */
 /* line 432, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .breadcrumb > .active {
-  color: #888;
+  color: rgb(236, 45, 19);
 }
 
 /* scrollUp */
