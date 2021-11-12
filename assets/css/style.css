@@ -706,6 +706,10 @@ hr {
   background-repeat: no-repeat;
 }
 
+.deliverables li{
+  list-style-type: disc;
+}
+
 /* button style */
 /* line 432, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .breadcrumb > .active {
